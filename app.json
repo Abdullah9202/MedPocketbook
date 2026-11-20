@@ -47,12 +47,14 @@
             "enableShrinkResourcesInReleaseBuilds": true
           }
         }
-      ]
+      ],
+      "expo-status-bar"
     ],
     "extra": {
       "eas": {
-        "projectId": "9e75df41-996c-4a1c-8bbe-3957b3786726"
+        "projectId": "09cc238e-0b77-43b4-b39a-9687745cbac6"
       }
-    }
+    },
+    "owner": "abdullah9202"
   }
 }
